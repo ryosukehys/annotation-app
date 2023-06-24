@@ -8,7 +8,7 @@ import json
 # 設定項目
 images_dir = ".\\images"  # 画像フォルダのパス
 json_path = ".\\result.json"  # 出力(json)ファイルのパス
-classes = ["犬", "猫", "鳥", "猿", "羊", "狼", "狸", "不明"]  # 分類するクラス
+classes = ["level1", "level2", "level3"]  # 分類するクラス
 image_width = 800  # 表示画像の幅
 image_height = 450  # 表示画像の高さ
 
